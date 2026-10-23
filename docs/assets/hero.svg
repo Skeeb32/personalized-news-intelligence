@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+<title id="title">Personalized News Intelligence</title>
+<desc id="desc">From information overload to an informed point of view. A Python research pipeline for technology, careers, and thoughtful publishing.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101e32"/><stop offset="1" stop-color="#071018"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#52e1bf"/><stop offset="1" stop-color="#8ccfff"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#24374b" stroke-width=".7"/></pattern>
+</defs>
+<rect width="1280" height="520" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="520" rx="24" fill="url(#grid)" opacity=".4"/>
+<rect x="48" y="48" width="36" height="36" rx="10" fill="#52e1bf"/>
+<path d="M58 74V58l16 16V58" fill="none" stroke="#09171e" stroke-width="3"/>
+<text x="100" y="72" fill="#9fb4c8" font-family="Arial, sans-serif" font-size="15" letter-spacing="3">PERSONALIZED NEWS INTELLIGENCE</text>
+<text x="48" y="163" fill="#f1f6fc" font-family="Arial, sans-serif" font-size="62" font-weight="700">Find the signal.</text>
+<text x="48" y="235" fill="#52e1bf" font-family="Arial, sans-serif" font-size="62" font-weight="700">Build your perspective.</text>
+<text x="50" y="285" fill="#b8c9da" font-family="Arial, sans-serif" font-size="21">Technology research. Career discovery. Thoughtful publishing.</text>
+<text x="50" y="320" fill="#839bb2" font-family="Arial, sans-serif" font-size="18">A Python pipeline that keeps evidence and editorial judgment in view.</text>
+<rect x="50" y="364" width="186" height="38" rx="19" fill="#17392f" stroke="#326756"/>
+<text x="143" y="389" fill="#94f1cf" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">PYTHON · STANDARD LIBRARY</text>
+<rect x="250" y="364" width="170" height="38" rx="19" fill="#142c41" stroke="#2e4a63"/>
+<text x="335" y="389" fill="#a5d8ff" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">HUMAN REVIEW BUILT IN</text>
+<g transform="translate(920 120)">
+  <rect x="20" y="0" width="230" height="272" rx="16" fill="#152536" stroke="#32485e"/>
+  <rect x="0" y="24" width="230" height="272" rx="16" fill="#0e1c2b" stroke="#49637b"/>
+  <rect x="20" y="46" width="48" height="5" rx="2" fill="url(#accent)"/>
+  <text x="20" y="83" fill="#f1f6fc" font-family="Arial, sans-serif" font-size="20" font-weight="700">THE DAILY BRIEF</text>
+  <text x="20" y="108" fill="#93a9bd" font-family="Arial, sans-serif" font-size="12">RESEARCH → REVIEW → PERSPECTIVE</text>
+  <path d="M20 130H210" stroke="#2f455a"/>
+  <text x="20" y="166" fill="#52e1bf" font-family="Arial, sans-serif" font-size="28" font-weight="700">05</text>
+  <text x="72" y="162" fill="#c0cfdd" font-family="Arial, sans-serif" font-size="14">ranked developments</text>
+  <text x="20" y="211" fill="#85c7ff" font-family="Arial, sans-serif" font-size="28" font-weight="700">10</text>
+  <text x="72" y="207" fill="#c0cfdd" font-family="Arial, sans-serif" font-size="14">job target, no filler</text>
+  <text x="20" y="256" fill="#f1f6fc" font-family="Arial, sans-serif" font-size="28" font-weight="700">01</text>
+  <text x="72" y="252" fill="#c0cfdd" font-family="Arial, sans-serif" font-size="14">informed point of view</text>
+</g>
+<path d="M48 448H1232" stroke="#2c4155"/>
+<text x="50" y="482" fill="#7f97ae" font-family="Arial, sans-serif" font-size="13" letter-spacing="2">COLLECT   /   RESEARCH   /   VALIDATE   /   REVIEW</text>
+<text x="1230" y="482" fill="#7f97ae" text-anchor="end" font-family="Arial, sans-serif" font-size="13">SKEEB32 / PERSONALIZED-NEWS-INTELLIGENCE</text>
+</svg>

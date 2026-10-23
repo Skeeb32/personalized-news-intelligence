@@ -1,0 +1,9 @@
+{
+  "timezone": "America/Indiana/Indianapolis",
+  "lookback_hours": 72,
+  "feeds": ["https://github.blog/feed/", "https://www.cisa.gov/cybersecurity-advisories/all.xml"],
+  "greenhouse_boards": ["anthropic", "cloudflare"],
+  "job_keywords": ["engineer", "data", "security", "product", "design", "technical"],
+  "locations": [],
+  "profile": {"interests": ["software engineering", "AI", "cybersecurity", "cloud infrastructure"]}
+}

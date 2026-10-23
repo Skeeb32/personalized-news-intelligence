@@ -1,0 +1,156 @@
+{
+  "overview": "Central theme",
+  "developments": [
+    {
+      "event_id": "fictional-0",
+      "headline": "Fictional example only",
+      "what_happened": "Evidence based explanation",
+      "facts": "Claims with specific evidence",
+      "publication_date": "YYYY-MM-DD",
+      "event_date": "YYYY-MM-DD or unknown",
+      "sources": [
+        "https://example.com/source"
+      ],
+      "why_it_matters": "Practical impact",
+      "takeaway": "Editorial interpretation",
+      "confidence": "Confirmed versus unresolved claims",
+      "update_reason": "",
+      "impact_scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "event_id": "fictional-1",
+      "headline": "Fictional example only",
+      "what_happened": "Evidence based explanation",
+      "facts": "Claims with specific evidence",
+      "publication_date": "YYYY-MM-DD",
+      "event_date": "YYYY-MM-DD or unknown",
+      "sources": [
+        "https://example.com/source"
+      ],
+      "why_it_matters": "Practical impact",
+      "takeaway": "Editorial interpretation",
+      "confidence": "Confirmed versus unresolved claims",
+      "update_reason": "",
+      "impact_scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "event_id": "fictional-2",
+      "headline": "Fictional example only",
+      "what_happened": "Evidence based explanation",
+      "facts": "Claims with specific evidence",
+      "publication_date": "YYYY-MM-DD",
+      "event_date": "YYYY-MM-DD or unknown",
+      "sources": [
+        "https://example.com/source"
+      ],
+      "why_it_matters": "Practical impact",
+      "takeaway": "Editorial interpretation",
+      "confidence": "Confirmed versus unresolved claims",
+      "update_reason": "",
+      "impact_scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "event_id": "fictional-3",
+      "headline": "Fictional example only",
+      "what_happened": "Evidence based explanation",
+      "facts": "Claims with specific evidence",
+      "publication_date": "YYYY-MM-DD",
+      "event_date": "YYYY-MM-DD or unknown",
+      "sources": [
+        "https://example.com/source"
+      ],
+      "why_it_matters": "Practical impact",
+      "takeaway": "Editorial interpretation",
+      "confidence": "Confirmed versus unresolved claims",
+      "update_reason": "",
+      "impact_scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    },
+    {
+      "event_id": "fictional-4",
+      "headline": "Fictional example only",
+      "what_happened": "Evidence based explanation",
+      "facts": "Claims with specific evidence",
+      "publication_date": "YYYY-MM-DD",
+      "event_date": "YYYY-MM-DD or unknown",
+      "sources": [
+        "https://example.com/source"
+      ],
+      "why_it_matters": "Practical impact",
+      "takeaway": "Editorial interpretation",
+      "confidence": "Confirmed versus unresolved claims",
+      "update_reason": "",
+      "impact_scores": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ]
+    }
+  ],
+  "jobs": [
+    {
+      "id": "copy collected id",
+      "title": "copy collected title",
+      "company": "copy collected company",
+      "location": "copy collected location",
+      "url": "https://example.com/job",
+      "work_arrangement": "Not disclosed",
+      "salary": "Not disclosed",
+      "why_explore": "Role relevance",
+      "application_verified": false,
+      "verification_note": "Date, specific page evidence and observed status"
+    }
+  ],
+  "job_limitation": "Explain any shortfall below ten",
+  "perspectives": [
+    {
+      "speaker": "Verified person",
+      "role": "Verified role",
+      "kind": "paraphrase",
+      "text": "Supported statement",
+      "source": "https://example.com/interview",
+      "context": "Date and context"
+    }
+  ],
+  "philosophy": {
+    "quote": "Verified quotation",
+    "author": "Verified author",
+    "source": "https://example.com/original",
+    "reflection": "Connection to theme"
+  },
+  "linkedin_post": "Replace with your researched post.",
+  "review": {
+    "approved": false,
+    "reviewer": ""
+  }
+}

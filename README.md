@@ -10,7 +10,20 @@ An evidence-first workflow for daily technology research, career discovery, and 
 * A dependency-free Python validator for the LinkedIn post's strict punctuation rules.
 * A practical [operating guide](docs/workflow.md) for research, review, and manual publication.
 
-## Quick start
+## Working pipeline
+
+The repository now includes a Python CLI for live RSS/Atom and Greenhouse collection, optional OpenAI web research, structured editorial validation, Markdown and LinkedIn draft rendering, and SQLite coverage history. Read the [runtime guide](docs/runtime.md).
+
+```sh
+python3 -m newsintel collect
+python3 -m unittest discover -s tests -v
+# With OPENAI_API_KEY and OPENAI_MODEL exported:
+python3 -m newsintel run
+```
+
+No key is needed to collect or process your own editorial JSON. AI drafting requires separately configured API access.
+
+## Manual quick start
 
 1. Give a research assistant with current web access the master prompt and your role, location, interests, and recent editions. Keep private career preferences outside this public repository.
 2. Copy `templates/edition.md` to `editions/YYYY-MM-DD.md` and research the day's developments. Select exactly five supported stories and aim for ten verified jobs. Disclose any shortfall rather than inventing entries.
@@ -20,7 +33,7 @@ An evidence-first workflow for daily technology research, career discovery, and 
 
 ## Project status
 
-This is a research workflow and editorial toolkit, not an autonomous news service. No daily edition has been researched or published by installing this repository. There are no API keys, paid services, LinkedIn integrations, or active daily schedules included.
+The collection and draft pipeline is implemented. No daily edition has been published by installing this repository. API credentials, recurring scheduling and LinkedIn publishing are not enabled. AI output always requires human review.
 
 The target delivery time is 6:00 AM in the operator's local time zone. Scheduling requires a separately configured research runner with current web access and persistent history. See the operating guide before enabling automation.
 
